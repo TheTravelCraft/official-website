@@ -1,0 +1,30 @@
+h1
+{
+ 
+  text-align: center;   
+ }
+ 
+ .topic
+ {
+ margin: 50px;
+  }
+  
+  
+ .toplogo
+ {
+    height: 40px;
+     width: 40px;
+ }
+ 
+ 
+ .packages
+ {
+    background-color: white;
+    box-shadow: 1px 2px 10px #00000026;
+    border-radius: 5px;
+    }
+    
+    .overflowhide
+    {
+        overflow: hidden;    
+    }

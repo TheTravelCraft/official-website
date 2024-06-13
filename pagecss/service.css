@@ -1,0 +1,8 @@
+.servicecard{
+transition: all ease .3s;
+}
+
+.servicecard:hover {
+    transform: translateY(-15px);
+  }
+  
